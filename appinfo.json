@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "KEY_COLOR_BLUE": 2,
+        "KEY_COLOR_GREEN": 1,
+        "KEY_COLOR_RED": 0,
+        "KEY_DATE_FORMAT": 4,
+        "KEY_LEADING_ZERO": 3,
+        "KEY_LOCALE": 5
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "NovaG",
+    "enableMultiJS": true,
+    "longName": "Straightface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/Siple Bold.TTF",
+                "name": "FONT_SIPLE_BOLD_52",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Straightface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "d4f7d4ea-f181-4a0c-b22f-0fb59d123bf3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
